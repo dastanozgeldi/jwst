@@ -1,0 +1,9 @@
+#################################################
+# Required Packages
+# pip install -r requirements.txt --user
+#################################################
+
+astropy
+astroquery
+matplotlib
+#tarfile==3.9.2
